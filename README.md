@@ -86,7 +86,7 @@ Once you've entered your information, click the "Predict" button, and the applic
 
 ## Data
 
-The Health Insurance Cost Predictor uses a dataset containing historical health insurance cost data. The dataset is included in the project under the `data` directory.
+The Health Insurance Cost Predictor uses a dataset containing historical health insurance cost data. The dataset `insurance.csv` is included in the project under the project directory.
 
 ## Model
 
